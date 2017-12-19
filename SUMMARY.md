@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* 02-蜂群思维
+* [02-蜂群思维](02feng-qun-si-wei.md)
 * [4.组装复杂性](4zu-zhuang-fu-za-xing.md)
 * [5.共同进化](5gong-tong-jin-hua.md)
 * [6.自然之流变](6zi-ran-zhi-liu-bian.md)
