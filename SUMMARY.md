@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
+* 02-蜂群思维
 * [4.组装复杂性](4zu-zhuang-fu-za-xing.md)
 * [5.共同进化](5gong-tong-jin-hua.md)
 * [6.自然之流变](6zi-ran-zhi-liu-bian.md)
@@ -19,5 +20,5 @@
 * [18.有组织的变化之架构](18you-zu-zhi-de-bian-hua-zhi-jia-gou.md)
 * [19.后达尔文主义](19hou-da-er-wen-zhu-yi.md)
 * [20.沉睡的蝴蝶](20chen-shui-de-hu-die.md)
-* [21.水往高处流](21shui-wang-gao-chu-liu.md)
+* 02-蜂群思维
 
